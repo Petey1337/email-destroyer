@@ -1,7 +1,7 @@
 ##### Email Destroyer Nodejs - Created by Petey
 **Support:** https://discord.gg/aumhyzr4yF
 ![](https://github.com/Petey1337/email-destroyer/blob/main/email-destroyer.gif?raw=true)
-### ⚠️ You are fully responsible for however you use this. ⚠️
+##### ⚠️ You are fully responsible for however you use this. ⚠️
 
 ## How to install/use
 
