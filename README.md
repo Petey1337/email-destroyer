@@ -1,5 +1,5 @@
 ##### Email Destroyer Nodejs - Created by Petey
-**Click to purchase!** https://discord.gg/aumhyzr4yF
+**Click to purchase!** https://shoppy.gg/product/7lmP8Ka<br><br>Contact: https://discord.gg/aumhyzr4yF
 <br>
 <br>
 ![](https://github.com/Petey1337/email-destroyer/blob/main/email-destroyer.gif?raw=true)
