@@ -20,4 +20,4 @@
 
   ### Facts:
 
-  **Sends over 260+ emails!**
+  **Sends over 290+ emails!**
