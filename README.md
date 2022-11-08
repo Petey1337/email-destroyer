@@ -12,7 +12,7 @@
 
   **1.** Install NodeJS - https://nodejs.org/en/download/
 
-  **2.** Run the "run.bat" file to install package modules, then reopen to launch
+  **2.** Run the "run.bat" file
 
   **3.** Enter Email
 
